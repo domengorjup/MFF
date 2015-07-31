@@ -1,0 +1,11 @@
+*.svn
+*.pyc
+*.xlsx
+*.docx
+*.pptx
+
+mff_cenilna_funkcija.py
+mff_vnos.py
+mff_program.py
+
+mff/
