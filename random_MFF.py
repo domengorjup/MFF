@@ -53,4 +53,4 @@ def random_MFF(FZ,DP):
     return matrika
 
 if __name__ == '__main__':
-    print random_MFF(3,3)
+    print (random_MFF(3,3))
