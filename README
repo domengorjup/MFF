@@ -1,0 +1,5 @@
+Author: Domen Gorjup	
+
+Description:
+Simple a simple script that attempts to diagonalize a MFF matrix by using weight functions. 
+Random MFF matrices can be created by using 'random_MFF.py'.
